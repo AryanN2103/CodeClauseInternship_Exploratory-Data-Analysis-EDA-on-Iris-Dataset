@@ -1,1 +1,1 @@
-# CodeClauseInternship_Exploratory-Data-Analysis-EDA-on-Iris-Dataset
+# CodeClauseInternship_Exploratory-Data-Analysis-EDA-on-Iris-Dataset Exploratory Data Analysis (EDA) on the Iris dataset reveals distinct patterns among the three flower species, with clear separations in sepal and petal dimensions. Scatter plots highlight strong correlations between petal length and width, especially for differentiating species. Visualizations like pair plots and histograms further demonstrate how these features cluster by species.
